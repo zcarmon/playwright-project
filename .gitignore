@@ -1,7 +1,7 @@
 .venv/
 .idea/
-./tests/__pycache__/
-./pages/__pycache__/
-.env
-/test-results
-/reports
+/tests/__pycache__/
+/pages/__pycache__/
+test-results/
+reports/
+/__pycache__/
