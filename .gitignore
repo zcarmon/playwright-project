@@ -1,7 +1,8 @@
 .venv/
 .idea/
-/tests/__pycache__/
-/pages/__pycache__/
+tests/__pycache__/
+pages/__pycache__/
 test-results/
-reports/
-/__pycache__/
+tests/test-results/
+test-reports/
+__pycache__/
